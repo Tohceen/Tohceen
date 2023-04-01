@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a passionate Full Stack Developer, Data Scientist, Pythoneer, and Software Engineer. With diverse skills and experience in multiple fields, I'm committed to creating innovative and practical solutions to complex problems. Whether it's designing a user-friendly web application or analyzing large data sets, I thrive on tackling new challenges and learning new skills.
 
 * 🌍  I'm based in London, United Kingdom
-* 🚀  I'm currently working on [Everything Feli-](http://Everything Feli.com)
-* 🧠  I'm learning Everything Javascript
 
 <a href="https://www.twitter.com/MetaDevOps" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/MetaDevOps?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
