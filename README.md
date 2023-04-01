@@ -5,10 +5,6 @@ I'm a passionate Full Stack Developer, Data Scientist, Pythoneer, and Software E
 
 * 🌍  I'm based in London, United Kingdom
 
-<a href="https://www.twitter.com/MetaDevOps" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MetaDevOps?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
